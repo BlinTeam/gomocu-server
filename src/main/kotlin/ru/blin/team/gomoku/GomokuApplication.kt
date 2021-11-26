@@ -1,11 +1,11 @@
-package ru.blin.team.gomocu
+package ru.blin.team.gomoku
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class GomocuApplication
+class GomokuApplication
 
 fun main(args: Array<String>) {
-    runApplication<GomocuApplication>(*args)
+    runApplication<GomokuApplication>(*args)
 }

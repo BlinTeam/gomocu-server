@@ -1,10 +1,10 @@
-package ru.blin.team.gomocu
+package ru.blin.team.gomoku
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class GomocuApplicationTests {
+class GomokuApplicationTests {
 
     @Test
     fun contextLoads() {

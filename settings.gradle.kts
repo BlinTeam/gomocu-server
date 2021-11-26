@@ -1,1 +1,1 @@
-rootProject.name = "gomocu-server"
+rootProject.name = "gomoku-server"
